@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/379438/210282941-fffd36dc-4b61-4b6a-9a69-be8a605a3a49.png)
+![image](https://user-images.githubusercontent.com/379438/210283286-ac0102a3-56b2-4e78-8155-ef7d0b10bc4a.png)
 
 # Welcome to Pluto Bio
 
